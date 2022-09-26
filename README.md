@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-- This project gives you the current weather using api hour by hour
+- This project gives you the current weather for the city entered using api hour by hour
 <img src="https://user-images.githubusercontent.com/92157668/192311777-d9115d1b-000b-49bc-a713-7ece84cdde57.jpg" width="300" height="600">
 
 - more details in forecast section
