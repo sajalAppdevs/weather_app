@@ -4,13 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- This project gives you the current weather using api hour by hour
+<img src="https://user-images.githubusercontent.com/92157668/192311777-d9115d1b-000b-49bc-a713-7ece84cdde57.jpg" width="300" height="600">
 
-A few resources to get you started if this is your first Flutter project:
+- more details in forecast section
+<img src="https://user-images.githubusercontent.com/92157668/192311886-fde8576e-5eb5-49e5-b097-86246b58274f.jpg" width="300" height="600">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
