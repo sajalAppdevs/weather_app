@@ -23,7 +23,7 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   final TextEditingController _cityController = TextEditingController();
   final Constants _constants = Constants();
-  static String apiKey = 'b970bf909dce419b908140206222606';
+  static String apiKey = 'your api key';
   String location = 'Stockholm';
   String weatherIcon = 'heavycloudy.png';
   int temperature = 0;
